@@ -1,5 +1,5 @@
-# gradle java static analysis template
-as of Oct 2020.
+# Gradle java project template
+As of Oct 2020.
 
 # google error prone
 [Google Error Prone](https://github.com/google/error-prone)
